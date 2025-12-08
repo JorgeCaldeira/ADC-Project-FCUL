@@ -34,10 +34,12 @@ This repository contains two folders:
 - Jupyter Notebook
 - Pandas
 - NetworkX
-  
+- Seaborn
+- Gephi and every plugin available in-app
 
 
 ---
 
 ## Project Info
 To run the project, it is needed to extract all the compressed files in this repository
+In the notebook, there are some commented lines that save the graphs and subgraphs, in order to have a better view using Gephi
