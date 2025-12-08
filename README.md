@@ -13,8 +13,9 @@ This repository contains the files with the implementation and analysis of sever
 ---
 
 ## Authors
-*(Add author names here)*
-
+- Gabriel Simões, fc59662
+- Jorge Caldeira fc58214
+- José Diogo fc55937
 ---
 
 ## Repository Structure
@@ -29,9 +30,14 @@ This repository contains two folders:
 ---
 
 ## Requirements
-*(List dependencies, e.g., Python libraries, versions, etc.)*
+- Python
+- Jupyter Notebook
+- Pandas
+- NetworkX
+  
+
 
 ---
 
 ## Project Info
-*(Add project description, goals, and context here)*
+To run the project, it is needed to extract all the compressed files in this repository
