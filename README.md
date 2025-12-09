@@ -22,7 +22,7 @@ This repository contains the files with the implementation and analysis of sever
 This repository contains two folders:
 
 - **Code**  
-  Contains the Jupyter Notebook (`.ipynb`) file used to run the majority of the project, as well as the original CSV file (`beer_reviews.csv`) compressed to a zip, due to file size limits.
+  Contains the Jupyter Notebook (`Projeto.ipynb`) file used to run the majority of the project, as well as the original CSV file (`beer_reviews.csv`) compressed to a zip, due to file size limits.
 
 - **Documents**  
   *(Add description of what is inside this folder)*
