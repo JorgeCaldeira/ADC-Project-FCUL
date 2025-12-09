@@ -42,4 +42,4 @@ This repository contains two folders:
 
 ## Project Info
 To run the project, it is needed to extract all the compressed files in this repository
-In the notebook, there are some commented lines that save the graphs and subgraphs, in order to have a better view using Gephi
+In the notebook, there are some commented lines that save the graphs and subgraphs in gexf format, in order to have a better view using Gephi
