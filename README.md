@@ -25,7 +25,7 @@ This repository contains two folders:
   Contains the Jupyter Notebook (`Projeto.ipynb`) file used to run the majority of the project, as well as the original CSV file (`beer_reviews.csv`) compressed to a zip, due to file size limits.
 
 - **Documents**  
-  contains the (`.pdf`) file of the report
+  Contains the (`.pdf`) files of the report and presentation
 
 ---
 
